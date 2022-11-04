@@ -23,7 +23,7 @@
         <div class="row justify-content-center">
             <div class="cold-md-11">
                 <h1 class="text-center mb-5">
-                    <i class="fas fa-user-graduate">Libros</i>
+                    <i class="fas fa-user-graduate">Bienvenidos</i>
                 </h1>
                 <a class="btn btn-primary  mb-1" href="{{url('/formLibro')}}">
                     <i class="fas fa-user-plus"> AGREGAR</i>

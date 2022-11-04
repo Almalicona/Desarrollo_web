@@ -32,7 +32,7 @@
                             <div class="form-row">
                                 <div class="col-md-5 mb-4">
                                     <label for="nombre" >Nombre</label>
-                                    <input type="text" name="nombre" class="form-control" placeholder="Hola Mundo Cruel"  required>
+                                    <input type="text" name="nombre" class="form-control" placeholder="Ingrese nombre "  required>
                                 </div>
 
                                 <div class="col-md-5 mb-4">
